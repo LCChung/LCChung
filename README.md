@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cam Chung. I'm glad to join the open-source community at Github.
-- 👀 I’m interested in data science, AI and basically all latest techonological stuffs.
+- 👀 I’m interested in data science, AI and basically all latest interesting stuffs.
 - 🌱 I’m currently learning how to apply data science into daily work.
 - 📫 You can reach me at lacamchung@gmail.com.
 
